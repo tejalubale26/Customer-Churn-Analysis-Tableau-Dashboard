@@ -9,6 +9,15 @@ The analysis provides actionable insights into customer behavior across various 
 
 -----
 
+### 🌐 Live Interactive Dashboard
+
+Click the link below to view and interact with the full Customer Churn Analysis Dashboard on Tableau Public. This provides the best experience for exploring the data and utilizing all the interactive filters and tooltips.
+
+👉 
+
+-----
+
+
 ### 💾 Data Source
 
 The analysis is based on a simulated or anonymized **telecom customer dataset**.
@@ -68,7 +77,7 @@ The final dashboard consists of multiple interconnected visualizations:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [Your Repository URL]
+    git clone [Your Repository URL](https://github.com/tejalubale26/Customer-Churn-Analysis-Tableau-Dashboard]
     ```
 2.  **Access the Dashboard:** The main file is the Tableau Workbook (`.twb` or `.twbx` file), which can be opened using **Tableau Desktop** or **Tableau Reader** (if saved as a `.twbx`).
 3.  **Explore the Insights:** Interact with the dashboard to filter and drill down into the data to explore the relationships between customer attributes and churn.
