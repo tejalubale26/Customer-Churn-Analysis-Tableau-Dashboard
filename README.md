@@ -77,7 +77,7 @@ The final dashboard consists of multiple interconnected visualizations:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [Your Repository URL](https://github.com/tejalubale26/Customer-Churn-Analysis-Tableau-Dashboard]
+    git clone [https://github.com/tejalubale26/Customer-Churn-Analysis-Tableau-Dashboard]
     ```
 2.  **Access the Dashboard:** The main file is the Tableau Workbook (`.twb` or `.twbx` file), which can be opened using **Tableau Desktop** or **Tableau Reader** (if saved as a `.twbx`).
 3.  **Explore the Insights:** Interact with the dashboard to filter and drill down into the data to explore the relationships between customer attributes and churn.
