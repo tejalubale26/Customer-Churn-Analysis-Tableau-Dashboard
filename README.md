@@ -12,6 +12,8 @@ The analysis provides actionable insights into customer behavior across various 
 ### 💾 Data Source
 
 The analysis is based on a simulated or anonymized **telecom customer dataset**.
+* **Source:** [Telecom Customer Churn Dataset from Kaggle]
+* **Link:** [https://www.kaggle.com/code/danishmubashar/telco-customer-churn-99-acc]
 
   * **Key Data Fields:**
       * `Gender`
