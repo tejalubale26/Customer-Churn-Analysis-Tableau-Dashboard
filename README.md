@@ -13,7 +13,7 @@ The analysis provides actionable insights into customer behavior across various 
 
 Click the link below to view and interact with the full Customer Churn Analysis Dashboard on Tableau Public. This provides the best experience for exploring the data and utilizing all the interactive filters and tooltips.
 
-👉 
+👉 https://public.tableau.com/views/CustomerChurnAnalysisDashboard_/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 -----
 
